@@ -22,7 +22,7 @@ dependencies:
     git:
       url: https://github.com/CyberMindWorks/flutter_cached_network_image.git
       path: cached_network_image_web
-      ref: 97111b48b1437c46d72d89917fd3598747af5143
+      ref: f250f33745fdc5fb656fbf096a4f3e2afb68532a
   flutter:
     sdk: flutter
   flutter_cache_manager:
